@@ -51,8 +51,6 @@ $(function(){
             //快速获取表单元素  id存放位置
             // data: { username: $('#form_login [name=username]').val(), password: $('#form_login [name=password]').val() },
             // data: {
-            //     username: $('#form_login [name=username]').val(),
-            //     password: $('#form_login [name=password]').val()
             //     //  username:$('#username').val(),
             //     //  password:$('#password').val()
             // },
